@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a48f45-23f7-44fb-83fe-88c2414fb728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex10_CSV_to_DataFrame_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex11_Square_Brackets_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex12_Square_Brackets_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex13_loc_and_iloc_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex14_loc_and_iloc_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex15_loc_and_iloc_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex2_Create_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex3_Access_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex4_Dictionary_manipulation_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex5_Dictionary_manipulation_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex6_Dictionariception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex7_Dictionary_to_DataFrame_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex8_Dictionary_to_DataFrame_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex9_CSV_to_DataFrame_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex01_Equality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex02_greater_and_less_than.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex03_Compare_arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex04_and_or_not_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex05_Boolean_operators_with_Numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex06_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex07_Add_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex08_Customize_further_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex09_Driving_right_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex10_Driving_right_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex11_Cars_per_capita_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex1_Motivation_for_dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex1_Motivation_for_dictionaries.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,130 +21,133 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Data_Scientist_with_Python_Career_Track$Ch3_Ex08_Customize_further_elif.coverage" NAME="Ch3_Ex08_Customize_further_elif Coverage Results" MODIFIED="1547591905753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="951623861">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="28" />
+          <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="28" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="21" />
-          <entry key="py" value="1488" />
+          <entry key="py" value="2149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="1488" />
+          <entry key="Python" value="2149" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex6_Dictionariception.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex01_Equality.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="899">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex02_greater_and_less_than.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1085">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex03_Compare_arrays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="992">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex04_and_or_not_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex05_Boolean_operators_with_Numpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1023">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex06_if.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="899">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex08_Customize_further_elif.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex09_Driving_right_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="796">
-              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex7_Dictionary_to_DataFrame_1.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex10_Driving_right_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex8_Dictionary_to_DataFrame_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex9_CSV_to_DataFrame_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex10_CSV_to_DataFrame_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex11_Square_Brackets_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex12_Square_Brackets_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex13_loc_and_iloc_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex14_loc_and_iloc_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="806">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex15_loc_and_iloc_3.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex11_Cars_per_capita_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="713">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -197,6 +196,17 @@
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex13_loc_and_iloc_1.py" />
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex14_loc_and_iloc_2.py" />
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex15_loc_and_iloc_3.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex01_Equality.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex02_greater_and_less_than.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex03_Compare_arrays.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex04_and_or_not_1.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex05_Boolean_operators_with_Numpy.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex06_if.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex07_Add_else.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex08_Customize_further_elif.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex09_Driving_right_1.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex10_Driving_right_2.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex11_Cars_per_capita_1.py" />
       </list>
     </option>
   </component>
@@ -210,12 +220,15 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,11 +245,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -257,6 +270,35 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Ch3_Ex08_Customize_further_elif" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data_Scientist_with_Python_Career_Track" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex08_Customize_further_elif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ch3_Ex08_Customize_further_elif" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -274,6 +316,31 @@
     <frame x="0" y="0" width="2560" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14179687" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45277777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14453125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -297,7 +364,7 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -430,29 +497,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex6_Dictionariception.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
+        <state relative-caret-position="1333">
           <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex7_Dictionary_to_DataFrame_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
+        <state relative-caret-position="1302">
           <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex8_Dictionary_to_DataFrame_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="620">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex9_CSV_to_DataFrame_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -465,36 +532,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex11_Square_Brackets_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="775">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex12_Square_Brackets_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex13_loc_and_iloc_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="1302">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex14_loc_and_iloc_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="1054">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex15_loc_and_iloc_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="331">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex07_Add_else.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex06_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex05_Boolean_operators_with_Numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex04_and_or_not_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex03_Compare_arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex02_greater_and_less_than.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex01_Equality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex08_Customize_further_elif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex09_Driving_right_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex10_Driving_right_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex11_Cars_per_capita_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
