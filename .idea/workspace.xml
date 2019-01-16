@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a48f45-23f7-44fb-83fe-88c2414fb728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex01_Basic_while_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex02_Add_conditionals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex03_Loop_over_a_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex04_Indexes_and_values_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex05_Indexes_and_values_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex06_Loop_over_list_of_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex07_Loop_over_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex08_Loop_over_Numpy_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex09_Loop_over_DataFrame_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex10_Loop_over_DataFrame_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex11_Add_column_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex12_Add_column_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex01_Random_float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex02_Roll_the_dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex03_Determine_your_next_move.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex04_The_next_step.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex05_How_long_can_you_go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex06_Visualize_the_walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex07_Simulate_multiple_walks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex08_Visualize_all_walks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex09_Implement_clumsiness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex10_Plot_the_distribution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,25 +36,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="61" />
+          <entry key="py" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="61" />
+          <entry key="Python" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="23" />
-          <entry key="py" value="2760" />
+          <entry key="dummy" value="30" />
+          <entry key="py" value="3306" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="2760" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Python" value="3306" />
         </counts>
       </usages-collector>
     </session>
@@ -64,93 +62,89 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex03_Loop_over_a_list.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex01_Random_float.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="920">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex04_Indexes_and_values_1.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex02_Roll_the_dice.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="920">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex05_Indexes_and_values_2.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex03_Determine_your_next_move.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="796">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex06_Loop_over_list_of_lists.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex04_The_next_step.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="1106">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex07_Loop_over_dictionary.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex05_How_long_can_you_go.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="734">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            <state relative-caret-position="796">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex08_Loop_over_Numpy_array.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex06_Visualize_the_walk.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="920">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex09_Loop_over_DataFrame_1.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex07_Simulate_multiple_walks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="920">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex10_Loop_over_DataFrame_1.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex08_Visualize_all_walks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="1457">
+              <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex11_Add_column_1.py">
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex09_Implement_clumsiness.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="796">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex12_Add_column_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="827">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex10_Plot_the_distribution.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -168,16 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex3_Scatter_Plot_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex1_Line_Plot_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex4_Scatter_Plot_2.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex5_Build_Histogram_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex6_Build_Histogram_2.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex7_Build_Histogram_3.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex8_Labels.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex9_Ticks.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex10_Sizes.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex11_Colors.py" />
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex12_Additional_Customizations.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch2_Ex1_Motivation_for_dictionaries.py" />
@@ -219,6 +203,16 @@
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex10_Loop_over_DataFrame_1.py" />
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex11_Add_column_1.py" />
         <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex12_Add_column_2.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex1_Random_float.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex2_Roll_the_dice.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex3_Determine_your_next_move.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex4_The_next_step.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex5_How_long_can_you_go.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex6_Visualize_the_walk.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex7_Simulate_multiple_walks.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex08_Visualize_all_walks.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex09_Implement_clumsiness.py" />
+        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex10_Plot_the_distribution.py" />
       </list>
     </option>
   </component>
@@ -385,72 +379,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex3_Scatter_Plot_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex1_Line_Plot_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex4_Scatter_Plot_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex5_Build_Histogram_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex6_Build_Histogram_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex7_Build_Histogram_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex8_Labels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1147">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex9_Ticks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex10_Sizes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex11_Colors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch1_Ex12_Additional_Customizations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -733,6 +661,72 @@
           <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex01_Random_float.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex02_Roll_the_dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex03_Determine_your_next_move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex04_The_next_step.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1106">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex05_How_long_can_you_go.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex06_Visualize_the_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex07_Simulate_multiple_walks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex08_Visualize_all_walks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1457">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex09_Implement_clumsiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex10_Plot_the_distribution.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
