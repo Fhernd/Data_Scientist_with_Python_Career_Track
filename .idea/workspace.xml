@@ -2,15 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a48f45-23f7-44fb-83fe-88c2414fb728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex01_Writing_a_lambda_function_you_already_know.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex02_Map_and_lambda_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex03_Filter_and_lambda_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex04_Reduce_and_lambda_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex05_Error_handling_with_try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex06_Error_handling_by_raising_an_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex07_Bringing_all_together_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex08_Bringing_all_together_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex09_Bringing_all_together_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex01_Iterating_over_iterables_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex02_Iterating_over_iterables_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex03_Iterators_as_function_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex04_Using_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex05_Using_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex06_Using_asterisk_and_zip_to_unzip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex07_Processing_large_amounts_of_Twitter_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex08_Extracting_information_from_large_amounts_of_Twitter_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex01_Writing_list_comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex02_Nested_list_comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex03_Using_conditionals_in_comprehensions_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex04_Using_conditionals_in_comprehensions_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex05_Dict_comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex06_Write_your_own_generator_expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex07_Changing_the_output_in_generator_expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex08_Build_a_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex09_List_comprehensions_for_time_stamped_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex10_Conditional_list_comprehensions_for_time_stamped_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex01_Dictionaries_for_data_science.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex02_Writing_a_function_to_help_you.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex03_Using_a_list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex04_Turning_this_all_into_a_DataFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex05_Processing_data_in_chunks_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex06_Writing_a_generator_to_load_data_in_chunks_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex07_Writing_a_generator_to_load_data_in_chunks_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex08_Writing_an_iterator_to_load_data_in_chunks_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex09_Writing_an_iterator_to_load_data_in_chunks_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex10_Writing_an_iterator_to_load_data_in_chunks_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex11_Writing_an_iterator_to_load_data_in_chunks_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex12_Writing_an_iterator_to_load_data_in_chunks_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,122 +47,40 @@
     <session id="951623861">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="98" />
+          <entry key="py" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="98" />
+          <entry key="Python" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="39" />
-          <entry key="py" value="4856" />
+          <entry key="dummy" value="74" />
+          <entry key="py" value="6432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="39" />
-          <entry key="Python" value="4856" />
+          <entry key="PLAIN_TEXT" value="74" />
+          <entry key="Python" value="6432" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex01_Writing_a_lambda_function_you_already_know.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex02_Map_and_lambda_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex03_Filter_and_lambda_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex04_Reduce_and_lambda_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex05_Error_handling_with_try_except.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex06_Error_handling_by_raising_an_error.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1333">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex07_Bringing_all_together_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="961">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex08_Bringing_all_together_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1829">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex09_Bringing_all_together_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,37 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex11_Cars_per_capita_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex12_Cars_per_capita_2.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex01_Basic_while_loop.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex02_Add_conditionals.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex03_Loop_over_a_list.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex04_Indexes_and_values_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex05_Indexes_and_values_2.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex06_Loop_over_list_of_lists.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex07_Loop_over_dictionary.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex08_Loop_over_Numpy_array.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex09_Loop_over_DataFrame_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex10_Loop_over_DataFrame_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex11_Add_column_1.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex12_Add_column_2.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex1_Random_float.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex2_Roll_the_dice.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex3_Determine_your_next_move.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex4_The_next_step.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex5_How_long_can_you_go.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex6_Visualize_the_walk.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex7_Simulate_multiple_walks.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex08_Visualize_all_walks.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex09_Implement_clumsiness.py" />
-        <option value="$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex10_Plot_the_distribution.py" />
-        <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex1_Write_a_simple_function.py" />
-        <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex2_Single_parameter_functions.py" />
-        <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex3_Functions_that_return_single_values.py" />
-        <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex4_Function_with_multiple_parameters.py" />
-        <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex5_A_brief_introduction_to_tuples.py" />
-        <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex6_Functions_that_return_multiple_values.py" />
-        <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex7_Bringing_it_all_together_1.py" />
         <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex8_Bringing_it_all_together_2.py" />
         <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch2_Ex1_The_keyword_global.py" />
         <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch2_Ex2_Nested_Functions_I.py" />
@@ -207,6 +115,37 @@
         <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex07_Bringing_all_together_1.py" />
         <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex08_Bringing_all_together_2.py" />
         <option value="$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex09_Bringing_all_together_3.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex1_Iterating_over_iterables_1.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex2_Iterating_over_iterables_2.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex3_Iterators_as_function_arguments.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex4_Using_enumerate.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex05_Using_zip.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex06_Using_asterisk_and_zip_to_unzip.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex07_Processing_large_amounts_of_Twitter_data.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex08_Extracting_information_from_large_amounts_of_Twitter_data.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch_Ex09_Writing_list_comprehensions.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch_Ex10_Nested_list_comprehensions.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex11_Using_conditionals_in_comprehensions_1.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex11_Using_conditionals_in_comprehensions_1.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex12_Using_conditionals_in_comprehensions_2.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex13_Dict_comprehensions.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex14_Write_your_own_generator_expressions.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex15_Changing_the_output_in_generator_expressions.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex08_Build_a_generator.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex09_List_comprehensions_for_time_stamped_data.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex10_Conditional_list_comprehensions_for_time_stamped_data.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex01_Dictionaries_for_data_science.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex02_Writing_a_function_to_help_you.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex03_Using_a_list_comprehension.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex04_Turning_this_all_into_a_DataFrame.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex05_Processing_data_in_chunks_1.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex06_Writing_a_generator_to_load_data_in_chunks_2.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex07_Writing_a_generator_to_load_data_in_chunks_3.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex08_Writing_an_iterator_to_load_data_in_chunks_1.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex09_Writing_an_iterator_to_load_data_in_chunks_2.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex10_Writing_an_iterator_to_load_data_in_chunks_3.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex11_Writing_an_iterator_to_load_data_in_chunks_4.py" />
+        <option value="$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex12_Writing_an_iterator_to_load_data_in_chunks_5.py" />
       </list>
     </option>
   </component>
@@ -239,7 +178,7 @@
             <path>
               <item name="Data_Scientist_with_Python_Career_Track" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data_Scientist_with_Python_Career_Track" type="462c0819:PsiDirectoryNode" />
-              <item name="C2_Python_Data_Science_Tool_Part_1" type="462c0819:PsiDirectoryNode" />
+              <item name="C3_Python_Data_Science_Tool_Part_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,6 +194,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Education\DataCamp\Data_Scientist_with_Python_Career_Track\C3_Python_Data_Science_Tool_Part_2" />
       <recent name="D:\Dropbox\Education\DataCamp\Data_Scientist_with_Python_Career_Track\C2_Python_Data_Science_Tool_Part_1" />
       <recent name="D:\Dropbox\Education\DataCamp\Data_Scientist_with_Python_Career_Track\C1_Intermediate_Python_for_Data_Science" />
     </key>
@@ -315,9 +255,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1890625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18945312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -342,7 +281,7 @@
       <window_info anchor="right" id="Database" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14179687" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18945312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,212 +313,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex11_Cars_per_capita_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch3_Ex12_Cars_per_capita_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex01_Basic_while_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex02_Add_conditionals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex03_Loop_over_a_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex04_Indexes_and_values_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex05_Indexes_and_values_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex06_Loop_over_list_of_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex07_Loop_over_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex08_Loop_over_Numpy_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex09_Loop_over_DataFrame_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex10_Loop_over_DataFrame_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex11_Add_column_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch4_Ex12_Add_column_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex02_Roll_the_dice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex03_Determine_your_next_move.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex04_The_next_step.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1106">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex05_How_long_can_you_go.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex06_Visualize_the_walk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex07_Simulate_multiple_walks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex08_Visualize_all_walks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1457">
-          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex09_Implement_clumsiness.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex10_Plot_the_distribution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C1_Intermediate_Python_for_Data_Science/Ch5_Ex01_Random_float.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex2_Single_parameter_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex3_Functions_that_return_single_values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex4_Function_with_multiple_parameters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex5_A_brief_introduction_to_tuples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex6_Functions_that_return_multiple_values.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex7_Bringing_it_all_together_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch1_Ex8_Bringing_it_all_together_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1705">
@@ -714,8 +447,198 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/C2_Python_Data_Science_Tool_Part_1/Ch3_Ex09_Bringing_all_together_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="238">
+          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex01_Iterating_over_iterables_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex02_Iterating_over_iterables_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex03_Iterators_as_function_arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex04_Using_enumerate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="909">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex05_Using_zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex06_Using_asterisk_and_zip_to_unzip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex07_Processing_large_amounts_of_Twitter_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch1_Ex08_Extracting_information_from_large_amounts_of_Twitter_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex01_Writing_list_comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex02_Nested_list_comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="909">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex03_Using_conditionals_in_comprehensions_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex04_Using_conditionals_in_comprehensions_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex05_Dict_comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex06_Write_your_own_generator_expressions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex07_Changing_the_output_in_generator_expressions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex09_List_comprehensions_for_time_stamped_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex10_Conditional_list_comprehensions_for_time_stamped_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch2_Ex08_Build_a_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex01_Dictionaries_for_data_science.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex02_Writing_a_function_to_help_you.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex03_Using_a_list_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="909">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex05_Processing_data_in_chunks_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex04_Turning_this_all_into_a_DataFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="909">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex06_Writing_a_generator_to_load_data_in_chunks_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex07_Writing_a_generator_to_load_data_in_chunks_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex08_Writing_an_iterator_to_load_data_in_chunks_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex10_Writing_an_iterator_to_load_data_in_chunks_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex11_Writing_an_iterator_to_load_data_in_chunks_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex12_Writing_an_iterator_to_load_data_in_chunks_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C3_Python_Data_Science_Tool_Part_2/Ch3_Ex09_Writing_an_iterator_to_load_data_in_chunks_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
